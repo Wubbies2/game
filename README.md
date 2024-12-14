@@ -1,2 +1,2 @@
 # game
-cool game
+very cool game
